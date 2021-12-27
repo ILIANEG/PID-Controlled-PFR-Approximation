@@ -4,5 +4,5 @@
 **Authors:** ILLIA Negovora, Fadi Oussta, Tareq Mareh <br>
 
 **Note:**
-1. All copyrights for _**problem description**_ belong to University of Ottawa and professor Jules Thibault. This file shell not be distributed without appropriate agreement from author. <br>
+1. All copyrights for _**project description**_ belong to University of Ottawa and professor Jules Thibault. This file shell not be distributed without appropriate agreement from author. <br>
 2. Code is distributed under MIT license, thus is distributed freely with no warranty. This code should not be used for practical analysis of industrial process. <br>
